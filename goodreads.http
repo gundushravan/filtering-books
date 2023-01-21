@@ -1,0 +1,7 @@
+GET http://localhost:3001/books/
+
+###
+
+GET http://localhost:3001/books/?offset=2&limit=3&search_q=potter&order_by=price&order=DESC
+
+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
